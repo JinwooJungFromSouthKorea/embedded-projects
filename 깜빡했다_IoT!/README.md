@@ -1,7 +1,1 @@
-![시연 영상](./CHANGED_ROOM_NUM.gif)
-![시연 영상](./DE1_LAMP.gif)
-![시연 영상](./DE1_LAMP_ACTION_BTN.gif)
-![시연 영상](./DE1_LAMP_STM32_PUTTY.gif)
-![시연 영상](./DE2_BLUETOOTH_LAMP_OFF.gif)
-![시연 영상](./DE2_BLUETOOTH_LAMP_ON.gif)
-![시연 영상](./SEND_RECV_ROOMINFO.gif)
+
